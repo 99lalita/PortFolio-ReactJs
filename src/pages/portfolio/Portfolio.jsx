@@ -140,7 +140,7 @@ const portfolioData = [
   },
   {
     id: 6,
-    name: "StudyNotion - EdTech Platform",
+    name: "StudyNotion - Ed-tech Platform",
     image: StudyNotion,
     LiveSite: "https: //studynotion-edtech-project.vercel.app/",
   },
