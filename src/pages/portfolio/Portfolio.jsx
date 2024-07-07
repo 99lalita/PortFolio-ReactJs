@@ -28,6 +28,7 @@ import password from "../../images/password.png";
 import Parallax from "../../images/Parallax.png";
 import ModernChair from "../../images/ModernChair.png";
 import ShareModal from "../../images/ShareModal.png";
+import ShoppingCart from "../../images/ShoppingCart.png";
 
 const portfolioData = [
   {
@@ -71,6 +72,12 @@ const portfolioData = [
     name: "Word Hunt App",
     image: WordHunt,
     LiveSite: "https://dynamic-word-hunt-dictionary-app.netlify.app",
+  },
+  {
+    id: 3,
+    name: "Shopping Cart App",
+    image: ShoppingCart,
+    LiveSite: "https://amazing-shopping-cart.netlify.app",
   },
   {
     id: 3,
