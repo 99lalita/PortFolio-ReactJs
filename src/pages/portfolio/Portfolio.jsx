@@ -29,6 +29,7 @@ import Parallax from "../../images/Parallax.png";
 import ModernChair from "../../images/ModernChair.png";
 import ShareModal from "../../images/ShareModal.png";
 import ShoppingCart from "../../images/ShoppingCart.png";
+import DevDetective from "../../images/DevDetective.png"
 
 const portfolioData = [
   {
@@ -162,6 +163,12 @@ const portfolioData = [
     name: "Password Generator",
     image: password,
     LiveSite: "https://strong-password-generator-application.netlify.app",
+  },
+  {
+    id: 7,
+    name: "Dev Detective",
+    image: DevDetective,
+    LiveSite: "https://cool-dev-detective.netlify.app/",
   },
   {
     id: 7,
